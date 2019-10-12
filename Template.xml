@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tour>
+  
+-<tourName> Tour Name Here </tourName> <!-- Tour name as it will appear in a list of tours and application header-->
+  
+-<tourList> 
+
+  -<tourStop> <!-- record for each stop of the tour. 1 or more per tour.-->
+
+    <name> Tour Stop Name </name> <!-- Name of item represented by this stop (only 1 per stop)-->
+
+    <individual> Individual Name Here </individual> <!-- Individual representing the stop (zero or more per stop)-->
+
+    <note> The art duo of Robézio Marqs and Tereza Dequinta brought vivid color, brilliant patterns and obscure characters to Eugene with “Sidewalk Games (and Kindness)”. </note> <!-- Interesting note about stop -->
+
+    <ref>https://www.20x21eug.com/murals/acidum-project/</ref> <!-- URL representing more information about stop zero or 1 per stop-->
+
+    <geoLocation>
+      
+      <latitude>
+        <coord>Latitude Value Here</coord> <!-- Latitude value to 6 decimal places. Positive numbers for north negative for south of the Equator. 1 per stop-->
+        <accuracy> DOP Value goes here </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
+      </latitude>
+      
+      <longitude>
+        <coord>Longitude Value Here</coord> <!-- Longitude value to 6 decimal places. Positive numbers for east negative for west of Prime Meridian. 1 per stop-->
+        <accuracy> DOP Value goes here </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
+      </longitude>
+      
+    </geoLocation>
+
+    <location> Address Here </location> <!-- Human readable location. May include notes regarding actual location to find. zero to 1 per stop, but recommended-->
+
+  </tourStop>
+
+</tourList>
+</tour>
