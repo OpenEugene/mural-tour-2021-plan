@@ -1,0 +1,263 @@
+<muralList>
+   <!--
+   Source:
+    Artist desc:
+    https://www.eugene-or.gov/DocumentCenter/View/37855/20-x-21-Mural-Brochure?bidId=
+    For geoLocations and locations:
+    https://www.20x21eug.com/map/
+    Also:
+    https://eugenemagazine.com/happenings/painting-the-town/
+
+   <mural>
+      <name> <name>
+      <artistGroup>  </artistGroup>
+      <artist>  </artist>
+      <home></home>
+      <note> 
+      </note>
+      <ref> </ref>
+      <geoLocation> </geoLocation>
+      <location> </location>
+   </mural>
+
+   -->
+   <mural>
+      <artistGroup> Acidum Project  </artistGroup>
+      <artist> Robézio Marqs </artist>
+      <artist> Tereza Dequinta </artist>
+      <home> Brazil </home>
+      <note>
+The art duo of Robézio Marqs and Tereza Dequinta brought vivid color,
+brilliant patterns and obscure characters to Eugene with “Sidewalk Games
+(and Kindness)”.
+      </note>
+      <ref>https://www.20x21eug.com/murals/acidum-project/</ref>
+      <geoLocation>44.049731, -123.093518 </geoLocation>
+      <location>62 W Broadway (on the alley by Cowfish) </location>
+   </mural>
+
+   <mural>
+      <artist> Beau Stanton </artist>
+      <home>Brooklyn, N.Y USA</home>
+      <note>
+A multi-disciplinary artist from Brooklyn, N.Y., Stanton draws inspiration
+for his big-wall art from historic ornamentation, religious iconography
+and classical painting.
+      </note>
+      <ref>https://www.20x21eug.com/murals/beau-stanton/</ref>
+      <geoLocation>44.048658, -123.092892</geoLocation>
+      <location>McDonald Theatre, 1010 Willamette St </location>
+   </mural>
+
+   <mural>
+      <artist>  Steven Lopez </artist>
+      <home> USA </home>
+      <note> 
+ The UO graduate returned to Eugene to provide a subtle environmental
+message through his mural about the important role bees play in our
+food supply.
+     </note>
+      <ref>https://www.20x21eug.com/murals/steven-lopez/</ref>
+      <geoLocation>44.057074, -123.097944</geoLocation>
+      <location>232 Lincoln St (Wildcraft Cider Press House) </location>
+   </mural>
+
+   <mural>
+      <artist>  Hua Tunan </artist>
+      <home>China</home>
+      <note> 
+ Tunan’s style of traditional Chinese art combined with Western graffiti
+depicts an epic battle between a dragon and tigers taking place among
+Eugene’s raindrops.
+     </note>
+      <ref>https://www.20x21eug.com/murals/hua-tunan/ </ref>
+      <geoLocation>44.055901, -123.098809 </geoLocation>
+      <location>411 West 4th Ave </location>
+   </mural>
+
+   <mural>
+      <artist> Hush</artist>
+      <home>United Kindom</home>
+      <note> 
+Hush’s style draws upon elements of Japanese influence, including anime
+and geishas. The graphic designs of his mural were laser-cut in studio and
+used as stencils
+      </note>
+      <ref>https://www.20x21eug.com/murals/hush/</ref>
+      <geoLocation>44.045268, -123.092045 </geoLocation>
+      <location>East wall, Falling Sky Brewing House &amp; Gastropub, 1334 Oak Alley</location>
+   </mural>
+
+   <mural>
+      <artist>  Ila Rose  </artist>
+      <home>Eugene, Oregon, USA</home>
+      <note> 
+This two-sided work by Eugene’s Ila Rose is influenced by her love of
+mythology and the natural world.
+      </note>
+      <ref>https://www.20x21eug.com/murals/ila-rose/</ref>
+      <geoLocation>44.056341, -123.097795</geoLocation>
+      <location>North and east walls of sawdust silo in parking lot, 348 W 3rd Ave </location>
+   </mural>
+
+   <mural>
+      <artistGroup>  Telmo Miel </artistGroup>
+      <artist>   Telmo Pieper </artist>
+      <artist>  Miel Krutzmann</artist>
+      <home>Netherlands</home>
+      <note> 
+Artistic duo Telmo Pieper and Miel Krutzmann created “Dog Daze of
+Summer” because of the relaxed vibe they got from Eugene.
+      </note>
+      <ref>https://www.20x21eug.com/murals/telmo-miel/</ref>
+      <geoLocation>44.049603, -123.095623</geoLocation>
+      <location>West wall of Shaw-Med Inc., 198 W Broadway, Eugene</location>
+   </mural>
+
+   <mural>
+      <artist>  Blek le Rat </artist>
+      <home>France</home>
+      <note> 
+The godfather of stencil art, Blek le Rat created ten works in
+Eugene, including the large scale “The Pied Piper” depicting his son
+playing a violin.
+      </note>
+      <ref>https://www.20x21eug.com/murals/blek-le-rat/</ref>
+      <geoLocation>44.049611, -123.090935</geoLocation>
+      <location>South wall of IDX Broker, 100 E Broadway</location>
+   </mural>
+
+   <mural>
+      <artist>  Franco Fasoli aka JAZ  </artist>
+      <home>Argentina</home>
+      <note> 
+Fasoli painted “Discussion about the Red” on the McDonald Theatre using a
+paint by numbers technique. His bonus mural in the Whitaker features his
+classic style with two half-human, half-creature beings.
+      </note>
+      <ref>https://www.20x21eug.com/murals/jaz/</ref>
+      <geoLocation>44.053929, -123.107976</geoLocation>
+      <location>North wall of Arcimoto, 544 Blair Blvd</location>
+   </mural>
+
+   <mural>
+      <artist>Dan Witz </artist>
+      <home> Brooklyn, NY USA</home>
+      <note> 
+Look high and look low to discover several works installed by this street
+art pioneer. Based in Brooklyn, NY, Witz creates in the trompe l’oeill style,
+a visual illusion used to trick the eye into perceiving a painted detail as
+three-dimensional.
+      </note>
+      <ref>https://www.20x21eug.com/murals/dan-witz/ </ref>
+      <geoLocation> </geoLocation>
+      <location>Various grids involving hands about downtown.</location>
+   </mural>
+
+   <mural>
+      <artist> Hyuro </artist>
+      <home>Spain/Argentina</home>
+      <note> 
+True to her style of playfulness mixed with politics, nature and
+feminine identity, Hyuro’s piece is titled “Secuencia Inversa de un Acto de
+Desctrucción” (“Reverse Sequence of an Act of Destruction”).
+      </note>
+      <ref>https://www.20x21eug.com/murals/hyuro/</ref>
+      <geoLocation>44.047843, -123.094749 </geoLocation>
+      <location>North wall of The Kiva, 125 W 11th Ave</location>
+   </mural>
+
+   <mural>
+      <artist>Matt Small  </artist>
+      <home>United Kingdom</home>
+      <note> 
+A British artist who focuses primarily on creating portraits, Small diverges
+from the classic painter as he creates his three dimensional portraits from
+reclaimed and found items from the community.
+      </note>
+      <ref>https://www.20x21eug.com/murals/matt-small/</ref>
+      <geoLocation>44.051587, -123.092456 </geoLocation>
+      <location>749 Willamette St. (in the alley by between Willamette and W. Park St.) </location>
+   </mural>
+
+   <mural>
+      <artist> WK Interact </artist>
+      <home>France/USA</home>
+      <note> 
+Originally from France, WK has lived and worked in New York since the early
+1990s. WK’s stunning black and white portrait of Rev. Dr. Martin Luther
+King, Jr. depicts a moment from his most famous speech.
+      </note>
+      <ref>https://www.20x21eug.com/murals/wk-interact/ </ref>
+      <geoLocation>44.047028, -123.091611 </geoLocation>
+      <location>1166 Oak St. (First Christian Church south wall) </location>
+   </mural>
+
+   <mural>
+      <artist> Alexis Diaz </artist>
+      <home>Puerto Rico</home>
+      <note> 
+ Diaz is a painter and urban muralist known for his mythic and dreamlike
+depictions of animals in a state of metamorphosis. Painted with sumi
+ink and brushes, this mammoth mural was “discovered” in the Whitaker
+neighborhood in 2018.
+      </note>
+      <ref>https://www.20x21eug.com/murals/alexis-diaz/</ref>
+      <geoLocation>44.057861, -123.109028</geoLocation>
+      <location>1061 W 2nd Ave. (Grizzlies Brand south wall) </location>
+   </mural>
+
+   <mural>
+      <artist>  Bayne Gardner  </artist>
+      <home>Eugene, Oregon, USA</home>
+      <note> 
+A self-taught visual artist living and working in the Eugene-Springfield
+area, Gardner is inspired by motion in nature and brings a lively and
+spontaneous energy to everything he paints. 
+      </note>
+      <ref>https://www.20x21eug.com/murals/bayne-gardner/</ref>
+      <geoLocation>44.045389, -123.092528 </geoLocation>
+      <location>Corner of 13th &amp; Willamette (Wall on Willamette St. side)</location>
+   </mural>
+
+    <mural>
+      <artist> AIKO </artist>
+      <home>Japan/USA</home>
+      <note> 
+ Acclaimed street artist Aiko was born and raised in Tokyo before moving to
+New York City in the mid-1990s. A renowned stencilist, she hand-cut the
+fifteen stencils used to create the mirrored female figure towering over
+Willamette Street.
+      </note>
+      <ref>https://www.20x21eug.com/murals/aiko/ </ref>
+      <geoLocation>44.051833, -123.092861</geoLocation>
+      <location>Parcade Parking Garage (7th &amp; Willamette, facing Willamette Street)</location>
+   </mural>
+
+    <mural>
+      <artist> Kiran Maharjan “H11235”  </artist>
+      <home>Nepal</home>
+      <note> 
+A street artist and muralist whose works revolve around the dual nature
+of mankind and of the artist, H11235’s work can be seen in the streets of
+Nepal and countries like Denmark, Finland, Cambodia and India.
+      </note>
+      <ref>https://www.20x21eug.com/murals/h11235/</ref>
+      <geoLocation>44.051611, -123.095500 </geoLocation>
+      <location>755 Charnelton St. (NW Martial Arts, north wall)</location>
+   </mural>
+
+    <mural>
+      <artist> Shamsia Hassani</artist>
+      <home>Afghanistan</home>
+      <note> 
+Afghanistan’s first female graffiti artist, Hassani’s works portray women
+in a male dominated society that are empowered by arts. The mouthless
+figures in her works use musical instruments for their voices.i
+      </note>
+      <ref>https://www.20x21eug.com/murals/shamsia-hassani/ </ref>
+      <geoLocation>44.032167, -123.090444 </geoLocation>
+      <location>2451 Willamette St. (South wall) </location>
+   </mural>
+</muralList>
+

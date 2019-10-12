@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="tour">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element name="tourName" type="xs:string" />
+        <xs:element name="tourList">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:element name="tourStop">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="stopNumber" type="xs:unsignedByte" />
+                    <xs:element name="prevStop" type="xs:unsignedByte" />
+                    <xs:element name="nextStop" type="xs:unsignedByte" />
+                    <xs:element name="name" type="xs:string" />
+                    <xs:element name="individual" type="xs:string" />
+                    <xs:element name="note" type="xs:string" />
+                    <xs:element name="ref" type="xs:string" />
+                    <xs:element name="geoLocation">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="latitude">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="coord" type="xs:decimal" />
+                                <xs:element name="accuracy" type="xs:unsignedByte" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="longitude">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="coord" type="xs:decimal" />
+                                <xs:element name="accuracy" type="xs:unsignedByte" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="location" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

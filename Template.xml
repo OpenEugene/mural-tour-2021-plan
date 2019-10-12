@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<tour>
+  
+-<tourName> Tour Name Here </tourName> <!-- Tour name as it will appear in a list of tours and application header-->
+  
+-<tourList> 
+
+  -<tourStop> <!-- record for each stop of the tour. 1 or more per tour.-->
+
+    <stopNumber> 22 </stopNumber> <!-- Ordered number for this stop. 1 per stop Only. Required if manually designating stop order-->
+    <prevStop> 21 </prevStop> <!-- Number of the stop before this one in the list. 1 per stop Only. Required if manually designating stop order-->
+    <nextStop> 23 </nextStop> <!-- Number of the stop after this one in the list. 1 per stop Only. Required if manually designating stop order-->
+
+    <name> Name </name> <!-- Name of item represented by this stop. 1 per stop-->
+
+    <individual> Individual Name Here </individual> <!-- Individual representing the stop (zero or more per stop)-->
+
+    <note> Interesting information. </note> <!-- Interesting note about stop -->
+
+    <ref>https://www.someplace.com/somedirectory/</ref> <!-- URL representing more information about stop zero or 1 per stop-->
+
+    <geoLocation>
+      
+      <latitude>
+        <coord>12.345678</coord> <!-- Latitude value to 6 decimal places. Positive numbers for north negative for south of the Equator. 1 per stop-->
+        <accuracy> 2 </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
+      </latitude>
+      
+      <longitude>
+        <coord>-123.456789</coord> <!-- Longitude value to 6 decimal places. Positive numbers for east negative for west of Prime Meridian. 1 per stop-->
+        <accuracy> 3 </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
+      </longitude>
+      
+    </geoLocation>
+
+    <location> Address Here </location> <!-- Human readable location. May include notes regarding actual location to find. zero to 1 per stop, but recommended-->
+
+  </tourStop>
+
+</tourList>
+</tour>
