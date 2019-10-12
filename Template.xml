@@ -7,24 +7,28 @@
 
   -<tourStop> <!-- record for each stop of the tour. 1 or more per tour.-->
 
-    <name> Tour Stop Name </name> <!-- Name of item represented by this stop (only 1 per stop)-->
+    <stopNumber> 22 </stopNumber> <!-- Ordered number for this stop. 1 per stop Only. Required if manually designating stop order-->
+    <prevStop> 21 </prevStop> <!-- Number of the stop before this one in the list. 1 per stop Only. Required if manually designating stop order-->
+    <nextStop> 23 </nextStop> <!-- Number of the stop after this one in the list. 1 per stop Only. Required if manually designating stop order-->
+
+    <name> Name </name> <!-- Name of item represented by this stop. 1 per stop-->
 
     <individual> Individual Name Here </individual> <!-- Individual representing the stop (zero or more per stop)-->
 
-    <note> The art duo of Robézio Marqs and Tereza Dequinta brought vivid color, brilliant patterns and obscure characters to Eugene with “Sidewalk Games (and Kindness)”. </note> <!-- Interesting note about stop -->
+    <note> Interesting information. </note> <!-- Interesting note about stop -->
 
-    <ref>https://www.20x21eug.com/murals/acidum-project/</ref> <!-- URL representing more information about stop zero or 1 per stop-->
+    <ref>https://www.someplace.com/somedirectory/</ref> <!-- URL representing more information about stop zero or 1 per stop-->
 
     <geoLocation>
       
       <latitude>
-        <coord>Latitude Value Here</coord> <!-- Latitude value to 6 decimal places. Positive numbers for north negative for south of the Equator. 1 per stop-->
-        <accuracy> DOP Value goes here </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
+        <coord>12.345678</coord> <!-- Latitude value to 6 decimal places. Positive numbers for north negative for south of the Equator. 1 per stop-->
+        <accuracy> 2 </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
       </latitude>
       
       <longitude>
-        <coord>Longitude Value Here</coord> <!-- Longitude value to 6 decimal places. Positive numbers for east negative for west of Prime Meridian. 1 per stop-->
-        <accuracy> DOP Value goes here </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
+        <coord>-123.456789</coord> <!-- Longitude value to 6 decimal places. Positive numbers for east negative for west of Prime Meridian. 1 per stop-->
+        <accuracy> 3 </accuracy> <!-- Measure of accuracy used if manually measuring location. zero or 1 per stop - only relevant if location is manually measured-->
       </longitude>
       
     </geoLocation>
